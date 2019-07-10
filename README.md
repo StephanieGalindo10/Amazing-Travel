@@ -7,7 +7,7 @@ Inspirations: As a fan of photography I wanted to created a demo portfolio for c
 ## LIVE LINK 
 Link : https://stephaniegalindo10.github.io/Amazing-Travel/
 
-![Amazing Travel Website]()
+![Amazing Travel Website](https://github.com/StephanieGalindo10/Amazing-Travel/blob/master/img/Screen%20Shot%202019-07-09%20at%2010.06.56%20AM.png?raw=true)
 
 
 
