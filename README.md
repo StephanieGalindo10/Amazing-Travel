@@ -1,11 +1,11 @@
- # Amazing Travel  :candle:
+ # Amazing Travel  :world:
 # Portfolio<h1> 
 For this project, I decided to create a Photography Portfolio  
 
 Inspirations: As a fan of photography I wanted to created a demo portfolio for clients that are into photography or traveling the world.
 
 ## LIVE LINK 
-Link :  https://stephaniegalindo10.github.io/Psychic-Game/
+Link :  file:///Users/stephaniegalindo/Desktop/Amazing-Travel/Amazing-Travel/index.html
 
 
 
